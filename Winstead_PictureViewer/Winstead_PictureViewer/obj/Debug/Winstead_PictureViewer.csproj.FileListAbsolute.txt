@@ -1,0 +1,9 @@
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\bin\Debug\Winstead_PictureViewer.exe.config
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\bin\Debug\Winstead_PictureViewer.exe
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\bin\Debug\Winstead_PictureViewer.pdb
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.csprojAssemblyReference.cache
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.Properties.Resources.resources
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.csproj.GenerateResource.cache
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.exe
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.pdb
+C:\Users\Ash\source\repos\Winstead_PictureViewer\Winstead_PictureViewer\obj\Debug\Winstead_PictureViewer.Form1.resources
